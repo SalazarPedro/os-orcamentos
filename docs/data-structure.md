@@ -1,7 +1,7 @@
 # Estrutura das Planilhas
 
 
-<a href="https://docs.google.com/spreadsheets/d/1AOTH_aPOJasQwvAw60zvorR6N8OrQoJlBM5XLTdbalw/" target="_blank" rel="noopener noreferrer">
+<a href="https://docs.google.com/spreadsheets/d/1AOTH_aPOJasQwvAw60zvorR6N8OrQoJlBM5XLTdbalw/" target="_blank">
   Planilha para testes
 </a>
 
