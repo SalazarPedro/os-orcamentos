@@ -47,9 +47,6 @@ Mais detalhes técnicos estão na pasta [`/docs`](./docs).
 - O back-end manipula dados do Google Sheets.  
 - Documentos de OS e Orçamentos são gerados automaticamente e armazenados no Google Drive.  
 
-Veja o diagrama da arquitetura em:  
-`/assets/diagram.png`
-
 ---
 
 ## 📄 Documentação Completa
