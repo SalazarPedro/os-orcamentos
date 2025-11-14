@@ -18,8 +18,8 @@
 
 # Caso queira ver mais de como o sistema funciona:
 
-[Tecnologias Utilizadas](tech-stack.md)
-
 [Visão Geral](overview.md)
+
+[Tecnologias Utilizadas](tech-stack.md)
 
 [Links de Demonstração](demo-links.md)
