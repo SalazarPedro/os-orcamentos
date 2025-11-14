@@ -6,7 +6,7 @@
 - APIs internas do Google
 
 ## HTML + CSS + JavaScript
-Interface leve que roda dentro do WebApp.
+Interface Front-End leve que roda dentro do WebApp.
 
 ## Google Sheets
 Usado como banco de dados:
