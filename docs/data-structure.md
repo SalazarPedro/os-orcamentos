@@ -15,3 +15,11 @@
 ## Aba: Materiais
 - Nome do material
 - Preço atual
+
+# Caso queira ver mais de como o sistema funciona:
+
+[Tecnologias Utilizadas](tech-stack.md)
+
+[Visão Geral](overview.md)
+
+[Links de Demonstração](demo-links.md)
