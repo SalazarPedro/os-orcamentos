@@ -1,8 +1,8 @@
 # Complemento de Ordens de Serviço — Sistema Web + Google Sheets
 
-Este repositório contém a documentação completa de um sistema desenvolvido para uma empresa que precisava organizar Ordens de Serviço e gerar orçamentos automaticamente, de forma simples, rápida e de baixo custo.
+Este repositório contém a documentação completa de um sistema desenvolvido para uma empresa que precisava organizar Ordens de Serviço e gerar orçamentos automaticamente, de forma simples, rápida e principalmente, com baixo custo.
 
-O código principal (Google Apps Script + lógicas internas) **não está incluído por ser parte de um projeto comercial**, mas toda a arquitetura, funcionamento e conceitos estão documentados aqui.
+O código principal (Google Apps Script + lógicas internas) **não está incluído por ser parte de um projeto comercial**, mas toda a arquitetura, funcionamento, conceitos e página de demonstração estão documentados aqui.
 
 ---
 
