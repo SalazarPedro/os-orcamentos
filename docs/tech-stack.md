@@ -17,3 +17,11 @@ Usado como banco de dados para:
 ## Design Técnico
 - Comunicação assíncrona entre front-end e Apps Script usando `google.script.run`.
 - Separação clara entre lógica de dados e interface.
+
+# Caso queira ver mais de como o sistema funciona:
+
+[Visão Geral](overview.md)
+
+[Estrutura da Planilha](data-structure.md)
+
+[Links de Demonstração](demo-links.md)
