@@ -14,7 +14,7 @@ O código principal (Google Apps Script + lógicas internas) **não está inclu�
 - Descrição da OS  
 - Número da OS gerado automaticamente  
 - Salvamento direto no Google Sheets  
-- Geração de documento PDF da OS
+- Geração de documento editável da OS
 
 ### 🟩 2. Gerador de Orçamentos
 - Busca automática de OS cadastradas  
@@ -26,7 +26,7 @@ O código principal (Google Apps Script + lógicas internas) **não está inclu�
   - Mão de obra  
   - Total final  
 - Geração e salvamento do orçamento no Google Sheets  
-- Criação automática do PDF do orçamento
+- Criação automática do documento do orçamento
 
 ---
 
@@ -43,7 +43,7 @@ Mais detalhes técnicos estão na pasta [`/docs`](./docs).
 
 ## 📌 Arquitetura do Sistema
 
-- O front-end (HTML/JS) roda em páginas WebApp do Apps Script.  
+- O front-end (HTML/JS/CSS) roda em páginas WebApp do Apps Script.  
 - O back-end manipula dados do Google Sheets.  
 - Documentos de OS e Orçamentos são gerados automaticamente e armazenados no Google Drive.  
 
