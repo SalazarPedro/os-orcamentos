@@ -11,7 +11,7 @@ O usuário preenche:
 - Descrição do serviço  
 
 O sistema gera automaticamente o número da OS e salva tudo no Google Sheets.  
-Depois, cria um documento PDF da OS contendo todas as informações.
+Depois, cria um documento da OS contendo todas as informações e com espaço para anotações de campo.
 
 ## 2. Geração de Orçamento
 
@@ -19,7 +19,8 @@ O usuário busca uma OS já cadastrada e pode:
 
 - Adicionar observações  
 - Inserir mão de obra  
-- Adicionar materiais com autocomplete baseado em uma tabela  
-- Ver o total atualizado automaticamente  
+- Adicionar materiais com autocomplete baseado em uma tabela
+- Ver o total atualizado automaticamente
+- Editar, caso precise adicionar algo a algum orçamento já feito
 
-O orçamento é salvo no Google Sheets e um PDF é gerado automaticamente.
+O orçamento é salvo no Google Sheets e um documento é gerado automaticamente.
