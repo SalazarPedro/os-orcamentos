@@ -4,7 +4,9 @@ Este documento explica o funcionamento geral do sistema, que é dividido em duas
 
 ## 1. Cadastro de OS
 
-O usuário preenche:
+Nesse primeiro sistema o intuito é fazer um documento para ser usado em campo, que contenha informações básicas sobre o atendimento.
+
+Sendo assim, o usuário preenche:
 
 - Nome do cliente  
 - Endereço  
@@ -15,7 +17,7 @@ Depois, cria um documento da OS contendo todas as informações e com espaço pa
 
 ## 2. Geração de Orçamento
 
-O usuário busca uma OS já cadastrada e pode:
+Aqui, com as informações obtidas em campo o usuário busca uma OS já cadastrada e pode:
 
 - Adicionar observações  
 - Inserir mão de obra  
