@@ -25,7 +25,7 @@ O usuário busca uma OS já cadastrada e pode:
 
 O orçamento é salvo no Google Sheets e um documento é gerado automaticamente.
 
-# Caso queira ver mais de como funciona:
+# Caso queira ver mais de como o sistema funciona:
 
 [Tecnologias Utilizadas](tech-stack.md)
 
