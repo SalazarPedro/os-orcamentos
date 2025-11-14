@@ -15,3 +15,12 @@ Este projeto roda com dados reais da empresa, mas aqui está uma cópia totalmen
 - **Pastas de documentos gerados:**  
   - OS: https://drive.google.com/drive/folders/17IbIcugGWDqcoSd2_Zyc3Tf0B46SqCN2  
   - Orçamentos: https://drive.google.com/drive/folders/1kPzs5eb3BD4o2kwlCC-IzQNyF0EUpQ5s
+
+
+# Caso queira ver mais de como o sistema funciona:
+
+[Visão Geral](overview.md)
+
+[Tecnologias Utilizadas](tech-stack.md)
+
+[Estrutura da Planilha](data-structure.md)
