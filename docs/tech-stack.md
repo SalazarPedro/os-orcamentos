@@ -9,10 +9,10 @@
 Interface Front-End leve que roda dentro do WebApp.
 
 ## Google Sheets
-Usado como banco de dados:
+Usado como banco de dados para:
 - Materiais
 - OS cadastradas
-- Orçamentos gerados
+- Documentos gerados
 
 ## Design Técnico
 - Comunicação assíncrona entre front-end e Apps Script usando `google.script.run`.
